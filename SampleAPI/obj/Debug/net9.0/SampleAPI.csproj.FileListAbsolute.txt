@@ -34,3 +34,4 @@
 /Users/jeremybarnes/repos/practicing-dotnet/SampleAPI/obj/Debug/net9.0/SampleAPI.pdb
 /Users/jeremybarnes/repos/practicing-dotnet/SampleAPI/obj/Debug/net9.0/SampleAPI.genruntimeconfig.cache
 /Users/jeremybarnes/repos/practicing-dotnet/SampleAPI/obj/Debug/net9.0/ref/SampleAPI.dll
+/Users/jeremybarnes/repos/practicing-dotnet/SampleAPI/obj/Debug/net9.0/SampleAPI.sourcelink.json

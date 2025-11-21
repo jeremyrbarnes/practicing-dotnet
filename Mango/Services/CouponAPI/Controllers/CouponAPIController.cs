@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Mango.Services.CouponAPI.Models;
 using Mango.Services.CouponAPI.Data;
+using Mango.Services.CouponAPI.Models.Dto;
 
 namespace Mango.Services.CouponAPI.Controllers
 {
@@ -18,12 +19,12 @@ namespace Mango.Services.CouponAPI.Controllers
         }
 
         [HttpGet]
-        public ActionResult<IEnumerable<Coupon>> GetAll()
+        public ActionResult<ResponseDto> GetAll()
         {
             try 
             {
                 var coupons = _db.Coupons.ToList();
-                return Ok(coupons);
+                return Ok(new ResponseDto() { Result = coupons});
             }
             catch (Exception ex)
             {
@@ -32,12 +33,20 @@ namespace Mango.Services.CouponAPI.Controllers
             }
         }
 
-        [HttpGet("{code}", Name = nameof(GetByCode))]
-        public ActionResult<Coupon> GetByCode(string code)
+        [HttpGet("{id}", Name = nameof(GetById))]
+        public ActionResult<ResponseDto> GetById(int id)
         {
-            var coupon = _db.Coupons.FirstOrDefault(c => string.Equals(c.CouponCode, code, StringComparison.OrdinalIgnoreCase));
+            var coupon = _db.Coupons.FirstOrDefault(c => c.CouponId == id);
             if (coupon == null) return NotFound();
-            return Ok(coupon);
+            return Ok(new ResponseDto() { Result = coupon });
         }
+
+        // [HttpGet("{code}", Name = nameof(GetByCode))]
+        // public ActionResult<Coupon> GetByCode(string code)
+        // {
+        //     var coupon = _db.Coupons.FirstOrDefault(c => string.Equals(c.CouponCode, code, StringComparison.OrdinalIgnoreCase));
+        //     if (coupon == null) return NotFound();
+        //     return Ok(coupon);
+        // }
     }
 }

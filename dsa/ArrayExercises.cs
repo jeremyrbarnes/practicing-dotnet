@@ -1,24 +1,12 @@
+using PracticingDotNet.Util;;
+
 namespace PracticingDotNet.Array
 {
     class ArrayExercises
     {
         protected int[] _numbers;
 
-        protected int _defaultSize = 10;
-
-        public enum SortType
-        {
-            public enum Type
-            {
-                Bubble,
-                Selection,
-                Insertion,
-                Merge,
-                Quick
-            }
-        }
-
-        public ArrayExercises(int size = _defaultSize)
+        public ArrayExercises(int size = DEFAULT_SIZE)
         {
             _numbers = new int[size];
             for (int i = 0; i < size; i++)
@@ -27,7 +15,7 @@ namespace PracticingDotNet.Array
             }
         }
 
-        public void Scramble(int size = _defaultSize)
+        public void Scramble(int size = DEFAULT_SIZE)
         {
             Random rand = new Random();
             for (int i = 0; i < size; i++)
@@ -42,11 +30,6 @@ namespace PracticingDotNet.Array
         public int[] GetArray()
         {
             return _numbers;
-        }
-
-        public int GetSize()
-        {
-            return _numbers.Length;
         }
 
         public int GetElementAt(int index)

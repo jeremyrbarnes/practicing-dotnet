@@ -1,0 +1,15 @@
+/Users/jb/Documents/repos/practicing-dotnet/dsa/obj/Debug/net10.0/dsa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jb/Documents/repos/practicing-dotnet/dsa/obj/Debug/net10.0/dsa.AssemblyInfoInputs.cache
+/Users/jb/Documents/repos/practicing-dotnet/dsa/obj/Debug/net10.0/dsa.AssemblyInfo.cs
+/Users/jb/Documents/repos/practicing-dotnet/dsa/obj/Debug/net10.0/dsa.csproj.CoreCompileInputs.cache
+/Users/jb/Documents/repos/practicing-dotnet/dsa/obj/Debug/net10.0/dsa.sourcelink.json
+/Users/jb/Documents/repos/practicing-dotnet/dsa/bin/Debug/net10.0/dsa
+/Users/jb/Documents/repos/practicing-dotnet/dsa/bin/Debug/net10.0/dsa.deps.json
+/Users/jb/Documents/repos/practicing-dotnet/dsa/bin/Debug/net10.0/dsa.runtimeconfig.json
+/Users/jb/Documents/repos/practicing-dotnet/dsa/bin/Debug/net10.0/dsa.dll
+/Users/jb/Documents/repos/practicing-dotnet/dsa/bin/Debug/net10.0/dsa.pdb
+/Users/jb/Documents/repos/practicing-dotnet/dsa/obj/Debug/net10.0/dsa.dll
+/Users/jb/Documents/repos/practicing-dotnet/dsa/obj/Debug/net10.0/refint/dsa.dll
+/Users/jb/Documents/repos/practicing-dotnet/dsa/obj/Debug/net10.0/dsa.pdb
+/Users/jb/Documents/repos/practicing-dotnet/dsa/obj/Debug/net10.0/dsa.genruntimeconfig.cache
+/Users/jb/Documents/repos/practicing-dotnet/dsa/obj/Debug/net10.0/ref/dsa.dll

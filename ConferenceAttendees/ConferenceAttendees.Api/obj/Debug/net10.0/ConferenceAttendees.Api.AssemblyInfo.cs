@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConferenceAttendees.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3842985b11ba1f25abd00424db1decf656c2456")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+698ebf04388c474379b16e89fbdd335690c23a99")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("ConferenceAttendees.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConferenceAttendees.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

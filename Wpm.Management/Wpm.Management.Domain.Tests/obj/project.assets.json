@@ -930,19 +930,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/jeremybarnes/.nuget/packages/": {}
+    "/Users/jb/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeremybarnes/repos/practicing-dotnet/Wpm.Management/Wpm.Management.Domain.Tests/Wpm.Management.Domain.Tests.csproj",
+      "projectUniqueName": "/Users/jb/Documents/repos/practicing-dotnet/Wpm.Management/Wpm.Management.Domain.Tests/Wpm.Management.Domain.Tests.csproj",
       "projectName": "Wpm.Management.Domain.Tests",
-      "projectPath": "/Users/jeremybarnes/repos/practicing-dotnet/Wpm.Management/Wpm.Management.Domain.Tests/Wpm.Management.Domain.Tests.csproj",
-      "packagesPath": "/Users/jeremybarnes/.nuget/packages/",
-      "outputPath": "/Users/jeremybarnes/repos/practicing-dotnet/Wpm.Management/Wpm.Management.Domain.Tests/obj/",
+      "projectPath": "/Users/jb/Documents/repos/practicing-dotnet/Wpm.Management/Wpm.Management.Domain.Tests/Wpm.Management.Domain.Tests.csproj",
+      "packagesPath": "/Users/jb/.nuget/packages/",
+      "outputPath": "/Users/jb/Documents/repos/practicing-dotnet/Wpm.Management/Wpm.Management.Domain.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jeremybarnes/.nuget/NuGet/NuGet.Config"
+        "/Users/jb/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -954,8 +954,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/jeremybarnes/repos/practicing-dotnet/Wpm.Management/Wpm.Management.Domain/Wpm.Management.Domain.csproj": {
-              "projectPath": "/Users/jeremybarnes/repos/practicing-dotnet/Wpm.Management/Wpm.Management.Domain/Wpm.Management.Domain.csproj"
+            "/Users/jb/Documents/repos/practicing-dotnet/Wpm.Management/Wpm.Management.Domain/Wpm.Management.Domain.csproj": {
+              "projectPath": "/Users/jb/Documents/repos/practicing-dotnet/Wpm.Management/Wpm.Management.Domain/Wpm.Management.Domain.csproj"
             }
           }
         }
@@ -1009,7 +1009,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

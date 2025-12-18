@@ -8,19 +8,30 @@ public class PetUnitTests
         Pet pet1 = new Pet
         {
             Id = Guid.NewGuid(),
-            Name = "Fido",
-            Age = 3
         };
 
         Pet pet2 = new Pet
         {
             Id = pet1.Id,
-            Name = "Fido",
-            Age = 3
         };
 
-        Assert.Equal(pet1.Id, pet2.Id);
-        Assert.Equal(pet1.Name, pet2.Name);
-        Assert.Equal(pet1.Age, pet2.Age);
+        Assert.True(pet1.Equals(pet2));
+    }
+
+    [Fact]
+    public void Pet_should_not_be_equal()
+    {
+        Pet pet1 = new Pet
+        {
+            Id = Guid.NewGuid(),
+        };
+
+        Pet pet2 = new Pet
+        {
+            Id = Guid.NewGuid(),
+        };
+
+        Assert.False(pet1.Equals(pet2));
+        Assert.True(pet1 != pet2);
     }
 }

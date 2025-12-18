@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jb/Documents/repos/practicing-dotnet/ConferenceAttendees/ConferenceAttendees.Api/ConferenceAttendees.Api.csproj": {}
+    "/Users/jeremybarnes/repos/practicing-dotnet/ConferenceAttendees/ConferenceAttendees.Api/ConferenceAttendees.Api.csproj": {}
   },
   "projects": {
-    "/Users/jb/Documents/repos/practicing-dotnet/ConferenceAttendees/ConferenceAttendees.Api/ConferenceAttendees.Api.csproj": {
+    "/Users/jeremybarnes/repos/practicing-dotnet/ConferenceAttendees/ConferenceAttendees.Api/ConferenceAttendees.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jb/Documents/repos/practicing-dotnet/ConferenceAttendees/ConferenceAttendees.Api/ConferenceAttendees.Api.csproj",
+        "projectUniqueName": "/Users/jeremybarnes/repos/practicing-dotnet/ConferenceAttendees/ConferenceAttendees.Api/ConferenceAttendees.Api.csproj",
         "projectName": "ConferenceAttendees.Api",
-        "projectPath": "/Users/jb/Documents/repos/practicing-dotnet/ConferenceAttendees/ConferenceAttendees.Api/ConferenceAttendees.Api.csproj",
-        "packagesPath": "/Users/jb/.nuget/packages/",
-        "outputPath": "/Users/jb/Documents/repos/practicing-dotnet/ConferenceAttendees/ConferenceAttendees.Api/obj/",
+        "projectPath": "/Users/jeremybarnes/repos/practicing-dotnet/ConferenceAttendees/ConferenceAttendees.Api/ConferenceAttendees.Api.csproj",
+        "packagesPath": "/Users/jeremybarnes/.nuget/packages/",
+        "outputPath": "/Users/jeremybarnes/repos/practicing-dotnet/ConferenceAttendees/ConferenceAttendees.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jb/.nuget/NuGet/NuGet.Config"
+          "/Users/jeremybarnes/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

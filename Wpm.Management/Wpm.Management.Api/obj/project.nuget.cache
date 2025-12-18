@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2de61C+lBOY=",
+  "success": true,
+  "projectFilePath": "/Users/jeremybarnes/repos/practicing-dotnet/Wpm.Management/Wpm.Management.Api/Wpm.Management.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/jeremybarnes/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "/Users/jeremybarnes/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,38 +1,17 @@
 ﻿namespace Wpm.Management.Domain;
 
-public class Pet : IEquatable<Pet>
+public class Pet : Entity
 {
-    public Guid Id { get; set; }
     public string? Name { get; set; }
     public int? Age { get; set; }
-
-    public bool Equals(Pet? other)
+    
+    public Pet()
     {
-        if (ReferenceEquals(other, null)) return false;
-        if (ReferenceEquals(this, other)) return true;
-
-        return Id == other.Id &&
-               Name == other.Name &&
-               Age == other.Age;
+        Id = Guid.NewGuid();
     }
 
-    public override bool Equals(object? obj)
+    public Pet(Guid id)
     {
-        return base.Equals(obj);
-    }
-
-    public override int GetHashCode()
-    {
-        return HashCode.Combine(Id, Name, Age);
-    }
-
-    public static bool operator ==(Pet? left, Pet? right)
-    {
-        return Equals(left, right);
-    }
-
-    public static bool operator !=(Pet? left, Pet? right)
-    {
-        return !Equals(left, right);
+        Id = id;
     }
 }

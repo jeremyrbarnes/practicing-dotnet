@@ -1,0 +1,15 @@
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/bin/Debug/net10.0/MusicPlayer
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/bin/Debug/net10.0/MusicPlayer.deps.json
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/bin/Debug/net10.0/MusicPlayer.runtimeconfig.json
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/bin/Debug/net10.0/MusicPlayer.dll
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/bin/Debug/net10.0/MusicPlayer.pdb
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/obj/Debug/net10.0/MusicPlayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/obj/Debug/net10.0/MusicPlayer.AssemblyInfoInputs.cache
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/obj/Debug/net10.0/MusicPlayer.AssemblyInfo.cs
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/obj/Debug/net10.0/MusicPlayer.csproj.CoreCompileInputs.cache
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/obj/Debug/net10.0/MusicPlayer.sourcelink.json
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/obj/Debug/net10.0/MusicPlayer.dll
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/obj/Debug/net10.0/refint/MusicPlayer.dll
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/obj/Debug/net10.0/MusicPlayer.pdb
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/obj/Debug/net10.0/MusicPlayer.genruntimeconfig.cache
+/Users/jb/Documents/repos/practicing-dotnet/advanced_programming_in_dotnet_core/MusicPlayer/obj/Debug/net10.0/ref/MusicPlayer.dll

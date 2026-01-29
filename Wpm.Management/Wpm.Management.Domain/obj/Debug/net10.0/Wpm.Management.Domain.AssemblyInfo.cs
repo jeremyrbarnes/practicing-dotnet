@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wpm.Management.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1fcd9f45ab886dc6bfb0d01464b311bf3e7873f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5d9f209c661006b9a5372a44a8b71011521da6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wpm.Management.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wpm.Management.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

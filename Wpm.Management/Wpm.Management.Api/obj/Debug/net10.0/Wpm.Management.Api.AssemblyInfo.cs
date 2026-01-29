@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wpm.Management.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5d9f209c661006b9a5372a44a8b71011521da6e")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d5d016378b47cbff47bbf4b9f6c8a40069b2695")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("Wpm.Management.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wpm.Management.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

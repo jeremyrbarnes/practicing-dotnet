@@ -1,0 +1,15 @@
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/bin/Debug/net10.0/MathOperationsApp
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/bin/Debug/net10.0/MathOperationsApp.deps.json
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/bin/Debug/net10.0/MathOperationsApp.runtimeconfig.json
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/bin/Debug/net10.0/MathOperationsApp.dll
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/bin/Debug/net10.0/MathOperationsApp.pdb
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/obj/Debug/net10.0/MathOperationsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/obj/Debug/net10.0/MathOperationsApp.AssemblyInfoInputs.cache
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/obj/Debug/net10.0/MathOperationsApp.AssemblyInfo.cs
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/obj/Debug/net10.0/MathOperationsApp.csproj.CoreCompileInputs.cache
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/obj/Debug/net10.0/MathOperationsApp.sourcelink.json
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/obj/Debug/net10.0/MathOperationsApp.dll
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/obj/Debug/net10.0/refint/MathOperationsApp.dll
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/obj/Debug/net10.0/MathOperationsApp.pdb
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/obj/Debug/net10.0/MathOperationsApp.genruntimeconfig.cache
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/events-and-delegates/MathOperationsApp/obj/Debug/net10.0/ref/MathOperationsApp.dll

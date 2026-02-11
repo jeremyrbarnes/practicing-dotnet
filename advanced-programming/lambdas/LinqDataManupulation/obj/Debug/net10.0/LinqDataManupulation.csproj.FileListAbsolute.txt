@@ -1,0 +1,15 @@
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/bin/Debug/net10.0/LinqDataManupulation
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/bin/Debug/net10.0/LinqDataManupulation.deps.json
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/bin/Debug/net10.0/LinqDataManupulation.runtimeconfig.json
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/bin/Debug/net10.0/LinqDataManupulation.dll
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/bin/Debug/net10.0/LinqDataManupulation.pdb
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/obj/Debug/net10.0/LinqDataManupulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/obj/Debug/net10.0/LinqDataManupulation.AssemblyInfoInputs.cache
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/obj/Debug/net10.0/LinqDataManupulation.AssemblyInfo.cs
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/obj/Debug/net10.0/LinqDataManupulation.csproj.CoreCompileInputs.cache
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/obj/Debug/net10.0/LinqDataManupulation.sourcelink.json
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/obj/Debug/net10.0/LinqDataManupulation.dll
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/obj/Debug/net10.0/refint/LinqDataManupulation.dll
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/obj/Debug/net10.0/LinqDataManupulation.pdb
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/obj/Debug/net10.0/LinqDataManupulation.genruntimeconfig.cache
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/lambdas/LinqDataManupulation/obj/Debug/net10.0/ref/LinqDataManupulation.dll

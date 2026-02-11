@@ -1,0 +1,15 @@
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/bin/Debug/net10.0/GenericStackApp
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/bin/Debug/net10.0/GenericStackApp.deps.json
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/bin/Debug/net10.0/GenericStackApp.runtimeconfig.json
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/bin/Debug/net10.0/GenericStackApp.dll
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/bin/Debug/net10.0/GenericStackApp.pdb
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/obj/Debug/net10.0/GenericStackApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/obj/Debug/net10.0/GenericStackApp.AssemblyInfoInputs.cache
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/obj/Debug/net10.0/GenericStackApp.AssemblyInfo.cs
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/obj/Debug/net10.0/GenericStackApp.csproj.CoreCompileInputs.cache
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/obj/Debug/net10.0/GenericStackApp.sourcelink.json
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/obj/Debug/net10.0/GenericStackApp.dll
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/obj/Debug/net10.0/refint/GenericStackApp.dll
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/obj/Debug/net10.0/GenericStackApp.pdb
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/obj/Debug/net10.0/GenericStackApp.genruntimeconfig.cache
+/Users/jeremybarnes/repos/practicing-dotnet/advanced-programming/generics/GenericStack/GenericStackApp/obj/Debug/net10.0/ref/GenericStackApp.dll

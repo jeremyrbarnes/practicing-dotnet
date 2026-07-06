@@ -5,7 +5,7 @@ using LeagueGames.Backend.Api.Domain.Helpers;
 
 public class Team : BaseEntity
 {
-    public string Name { get; set; }
+    public string Name { get; set; } = string.Empty;
 
-    public Location Location { get; set; }
+    public Location? Location { get; set; }
 }

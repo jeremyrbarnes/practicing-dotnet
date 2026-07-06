@@ -4,7 +4,7 @@ namespace LeagueGames.Backend.Api.Domain.Entities.Core;
 
 public class Player : BaseEntity
 {
-    public string FirstName { get; set; }
-    public string LastName { get; set; }
+    public string FirstName { get; set; } = string.Empty;
+    public string LastName { get; set; } = string.Empty;
     public string FullName { get => FirstName + " " + LastName; }
 }

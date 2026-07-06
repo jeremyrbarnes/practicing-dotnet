@@ -10,3 +10,15 @@
 /Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Domain/obj/Debug/net10.0/refint/Domain.dll
 /Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Domain/obj/Debug/net10.0/Domain.pdb
 /Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/Domain/obj/Debug/net10.0/ref/Domain.dll
+/Users/jb/Documents/repos/microsoft/league-games/Backend.Api/src/Domain/bin/Debug/net10.0/Domain.deps.json
+/Users/jb/Documents/repos/microsoft/league-games/Backend.Api/src/Domain/bin/Debug/net10.0/Domain.dll
+/Users/jb/Documents/repos/microsoft/league-games/Backend.Api/src/Domain/bin/Debug/net10.0/Domain.pdb
+/Users/jb/Documents/repos/microsoft/league-games/Backend.Api/src/Domain/obj/Debug/net10.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jb/Documents/repos/microsoft/league-games/Backend.Api/src/Domain/obj/Debug/net10.0/Domain.AssemblyInfoInputs.cache
+/Users/jb/Documents/repos/microsoft/league-games/Backend.Api/src/Domain/obj/Debug/net10.0/Domain.AssemblyInfo.cs
+/Users/jb/Documents/repos/microsoft/league-games/Backend.Api/src/Domain/obj/Debug/net10.0/Domain.csproj.CoreCompileInputs.cache
+/Users/jb/Documents/repos/microsoft/league-games/Backend.Api/src/Domain/obj/Debug/net10.0/Domain.sourcelink.json
+/Users/jb/Documents/repos/microsoft/league-games/Backend.Api/src/Domain/obj/Debug/net10.0/Domain.dll
+/Users/jb/Documents/repos/microsoft/league-games/Backend.Api/src/Domain/obj/Debug/net10.0/refint/Domain.dll
+/Users/jb/Documents/repos/microsoft/league-games/Backend.Api/src/Domain/obj/Debug/net10.0/Domain.pdb
+/Users/jb/Documents/repos/microsoft/league-games/Backend.Api/src/Domain/obj/Debug/net10.0/ref/Domain.dll

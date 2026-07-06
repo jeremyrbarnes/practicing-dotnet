@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "spXpq5SixKY=",
+  "dgSpecHash": "hwutHUW+Bpw=",
   "success": true,
-  "projectFilePath": "/Users/jeremybarnes/repos/microsoft/league-games/Backend.Api/src/WebApi/WebApi.csproj",
+  "projectFilePath": "/Users/jb/Documents/repos/microsoft/league-games/Backend.Api/src/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
-    "/Users/jeremybarnes/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
-    "/Users/jeremybarnes/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+    "/Users/jb/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "/Users/jb/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }
